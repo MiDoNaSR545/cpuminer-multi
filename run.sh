@@ -1,2 +1,2 @@
 #!/bin/bash
-./cpuminer -a sha256d -o stratum+tcp://connect.pool.bitcoin.com:3333 -u DSUmeYKGd2UJja43MsnAhA2kHaQoBiafwb -p c=DOGE
+./cpuminer --scrypt -I 13 -o stratum+tcp://stratum.aikapool.com:7915 -u Nour.name -p password
